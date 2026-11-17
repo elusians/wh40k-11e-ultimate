@@ -1,2 +1,4 @@
-# wh40k-11e-ultimate
-Restored legends rules and other units phased out from previous editions.
+Warhammer 40,000: 11th Edition Ultimate
+==============================
+
+Restored Legends rules and other profiles that have been removed from previous editions.
